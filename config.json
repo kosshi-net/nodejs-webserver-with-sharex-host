@@ -1,0 +1,13 @@
+{	
+	"http_enable": true,
+	"http_port": 80,
+
+	"https_enable": false,
+	"https_port": 443,
+
+	"dir_key": 	"",
+	"dir_cert": "",
+	"dir_ca": 	"",
+
+	"sharexkey": "randomstringhere"
+}
